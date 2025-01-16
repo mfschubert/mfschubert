@@ -1,4 +1,4 @@
-# Repositories
+# Projects
 
 ## Personal projects
 - [agjax](https://github.com/mfschubert/agjax): wrapper for autograd functions that allows use with jax, including support for jax transformations such as `jit` and `vmap`.
