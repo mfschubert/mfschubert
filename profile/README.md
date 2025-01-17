@@ -2,10 +2,10 @@
 
 ## Personal projects
 - [agjax](https://github.com/mfschubert/agjax): wrapper for autograd functions that allows use with jax, including support for jax transformations such as `jit` and `vmap`.
-- [fmmax](https://github.com/mfschubert/agjax): a jax implementation of the Fourier Modal Method (aka Rigorous Coupled Wave Analysis, RCWA). This repo is hard fork of the [fmmax repo](https://github.com/facebookresearch/fmmax) which I originally created while working at Meta Reality Labs.
+- [fmmax](https://github.com/mfschubert/fmmax): a jax implementation of the Fourier Modal Method (aka Rigorous Coupled Wave Analysis, RCWA). This repo is hard fork of the [fmmax repo](https://github.com/facebookresearch/fmmax) which I originally created while working at Meta Reality Labs.
 - [jeig](https://github.com/mfschubert/jeig): nonsymmetric eigendecomposition for jax with multiple backends. Can provide significant speedup over `jnp.linalg.eig` when performing a batch of eigendecompositions.
 - [mewtax](https://github.com/mfschubert/mewtax): differentiable minimization in jax using Newton's method, following the [implicit layers tutorial](https://implicit-layers-tutorial.org/implicit_functions/).
-- [refractiveindex2](https://github.com/mfschubert/sparsejac): a python interface to the [refractiveindex.info database](https://github.com/polyanskiy/refractiveindex.info-database) of optical material properties, with api modeled after the [refractiveindex package](https://github.com/polyanskiy/refractiveindex.info-database).
+- [refractiveindex2](https://github.com/mfschubert/refractiveindex2): a python interface to the [refractiveindex.info database](https://github.com/polyanskiy/refractiveindex.info-database) of optical material properties, with api modeled after the [refractiveindex package](https://github.com/polyanskiy/refractiveindex.info-database).
 - [sparsejac](https://github.com/mfschubert/sparsejac): enables efficient calculation of sparse jacobians using jax.
 
 
