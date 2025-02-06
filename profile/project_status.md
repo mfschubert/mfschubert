@@ -3,7 +3,7 @@
 | Name | CI | pypi |
 | ---- | -- | ---- | 
 | [agjax](https://github.com/mfschubert/agjax) | ![Continuous integration](https://github.com/mfschubert/agjax/actions/workflows/build-ci.yml/badge.svg) | ![PyPI version](https://img.shields.io/pypi/v/agjax) |
-| [ccmaps](https://github.com/mfschubert/ccmaps) | ![Continuous integration](https://github.com/mfschubert/ccmaps/actions/workflows/build-ci.yml/badge.svg) | n/a |
+| [ccmaps](https://github.com/mfschubert/ccmaps) | ![Continuous integration](https://github.com/mfschubert/ccmaps/actions/workflows/build-ci.yml/badge.svg) |![PyPI version](https://img.shields.io/pypi/v/ccmaps) |
 | [fmmax](https://github.com/mfschubert/fmmax) | ![Continuous integration](https://github.com/mfschubert/fmmax/actions/workflows/build-ci.yml/badge.svg) | ![PyPI version](https://img.shields.io/pypi/v/fmmax) |
 | [jeig](https://github.com/mfschubert/jeig) | ![Continuous integration](https://github.com/mfschubert/jeig/actions/workflows/build-ci.yml/badge.svg) | ![PyPI version](https://img.shields.io/pypi/v/jeig) |
 | [mewtax](https://github.com/mfschubert/mewtax) | ![Continuous integration](https://github.com/mfschubert/mewtax/actions/workflows/build-ci.yml/badge.svg) | ![PyPI version](https://img.shields.io/pypi/v/mewtax) |
